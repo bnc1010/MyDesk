@@ -1,0 +1,3 @@
+# mydesk 依赖：只有 Pillow 必须；mss 可选（更好/更快的多屏抓屏）
+pillow>=10.0
+mss>=9.0

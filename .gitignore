@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 运行日志（watch.py 的日志、排障重定向）
+*.log
+viewer.log
+
+# PyInstaller 产物
+build/
+dist/
+*.manifest
+*.spec
+
+# 离线依赖包（setup.bat 的 wheels 方案）
+wheels/
+
+# 打包/临时
+_tmp/
+*.tmp
